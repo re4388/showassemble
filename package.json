@@ -1,0 +1,17 @@
+{
+  "name": "@re4388/showassemble",
+  "version": "1.0.4",
+  "description": "this npm repo is mainly for personal practice",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": ["personal", "assemble"],
+  "author": "re4388",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {}
+}
