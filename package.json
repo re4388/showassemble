@@ -6,12 +6,17 @@
   "scripts": {
     "example": "node example.js"
   },
-  "keywords": ["personal", "assemble"],
+  "keywords": [
+    "personal",
+    "assemble"
+  ],
   "author": "re4388",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/re4388/showassemble.git"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@caporal/core": "^2.0.2"
+  }
 }
