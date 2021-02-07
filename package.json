@@ -1,6 +1,6 @@
 {
   "name": "@re4388/showassemble",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "this npm repo is mainly for personal practice",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/re4388/showassemble.git"
   },
   "dependencies": {}
 }
