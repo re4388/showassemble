@@ -16,7 +16,5 @@
     "type": "git",
     "url": "https://github.com/re4388/showassemble.git"
   },
-  "dependencies": {
-    "@caporal/core": "^2.0.2"
-  }
+  "dependencies": {}
 }
