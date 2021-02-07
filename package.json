@@ -1,6 +1,6 @@
 {
   "name": "@re4388/showassemble",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "this npm repo is mainly for personal practice",
   "main": "index.js",
   "scripts": {
