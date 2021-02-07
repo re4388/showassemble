@@ -1,6 +1,6 @@
 # @benhu/adder
 
-A simple showAssemble
+Console log one Assemble code
 
 ## Install
 
